@@ -291,20 +291,6 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/MongoDB/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://junonin.github.io/tags/Nginx/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://junonin.github.io/tags/Maven/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -312,7 +298,21 @@
   </url>
   
   <url>
+    <loc>http://junonin.github.io/tags/MongoDB/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://junonin.github.io/tags/RAID/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://junonin.github.io/tags/Nginx/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -333,14 +333,14 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/Typora/</loc>
+    <loc>http://junonin.github.io/tags/Tomcat/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/Tomcat/</loc>
+    <loc>http://junonin.github.io/tags/Typora/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -419,13 +419,6 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/categories/Nginx/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://junonin.github.io/categories/Maven/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -434,6 +427,13 @@
   
   <url>
     <loc>http://junonin.github.io/categories/RAID/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://junonin.github.io/categories/Nginx/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
