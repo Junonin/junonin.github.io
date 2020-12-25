@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://junonin.github.io/todo/index.html</loc>
+    
+    <lastmod>2020-12-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://junonin.github.io/about/index.html</loc>
+    
+    <lastmod>2020-12-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://junonin.github.io/posts/d60c4ae5.html</loc>
+    
+    <lastmod>2020-12-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://junonin.github.io/posts/9770b99d.html</loc>
     
     <lastmod>2020-12-25</lastmod>
@@ -191,13 +212,6 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/posts/d60c4ae5.html</loc>
-    
-    <lastmod>2020-10-22</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://junonin.github.io/tags/index.html</loc>
     
     <lastmod>2020-10-13</lastmod>
@@ -219,13 +233,6 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/about/index.html</loc>
-    
-    <lastmod>2020-10-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://junonin.github.io/artitalk/index.html</loc>
     
     <lastmod>2020-10-09</lastmod>
@@ -242,14 +249,14 @@
 
   
   <url>
-    <loc>http://junonin.github.io/tags/Centos/</loc>
+    <loc>http://junonin.github.io/tags/SQL/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/SQL/</loc>
+    <loc>http://junonin.github.io/tags/Centos/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,13 +277,6 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/JDK/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://junonin.github.io/tags/Hexo/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -284,7 +284,7 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/Maven/</loc>
+    <loc>http://junonin.github.io/tags/JDK/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -298,14 +298,21 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/RAID/</loc>
+    <loc>http://junonin.github.io/tags/Nginx/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/Nginx/</loc>
+    <loc>http://junonin.github.io/tags/Maven/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://junonin.github.io/tags/RAID/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -319,14 +326,7 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/WebService/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://junonin.github.io/tags/Tomcat/</loc>
+    <loc>http://junonin.github.io/tags/Redis/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -340,21 +340,14 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/Wechat/</loc>
+    <loc>http://junonin.github.io/tags/Tomcat/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://junonin.github.io/tags/Redis/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://junonin.github.io/tags/WinSCP/</loc>
+    <loc>http://junonin.github.io/tags/WebService/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -367,17 +360,31 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://junonin.github.io/categories/Linux/</loc>
+    <loc>http://junonin.github.io/tags/Wechat/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
+    <loc>http://junonin.github.io/tags/WinSCP/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>http://junonin.github.io/categories/SQL/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://junonin.github.io/categories/Linux/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -398,6 +405,13 @@
   </url>
   
   <url>
+    <loc>http://junonin.github.io/categories/Hexo/</loc>
+    <lastmod>2020-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://junonin.github.io/categories/JAVA/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -405,7 +419,7 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/categories/Hexo/</loc>
+    <loc>http://junonin.github.io/categories/Nginx/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -426,14 +440,14 @@
   </url>
   
   <url>
-    <loc>http://junonin.github.io/categories/Nginx/</loc>
+    <loc>http://junonin.github.io/categories/Bat/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://junonin.github.io/categories/Bat/</loc>
+    <loc>http://junonin.github.io/categories/Redis/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -448,13 +462,6 @@
   
   <url>
     <loc>http://junonin.github.io/categories/WebService/</loc>
-    <lastmod>2020-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://junonin.github.io/categories/Redis/</loc>
     <lastmod>2020-12-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
