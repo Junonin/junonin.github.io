@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://junonin.github.io/about/index.html</loc>
+    
+    <lastmod>2020-12-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://junonin.github.io/posts/d60c4ae5.html</loc>
     
     <lastmod>2020-12-30</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://junonin.github.io/todo/index.html</loc>
     
     <lastmod>2020-12-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://junonin.github.io/about/index.html</loc>
-    
-    <lastmod>2020-12-25</lastmod>
     
   </url>
   
