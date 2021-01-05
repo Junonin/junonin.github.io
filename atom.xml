@@ -3,11 +3,11 @@
   <title>以甯为意</title>
   
   
-  <link href="http://junonin.github.io/atom.xml" rel="self"/>
+  <link href="https://junonin.github.io/atom.xml" rel="self"/>
   
-  <link href="http://junonin.github.io/"/>
+  <link href="https://junonin.github.io/"/>
   <updated>2020-12-25T02:56:24.179Z</updated>
-  <id>http://junonin.github.io/</id>
+  <id>https://junonin.github.io/</id>
   
   <author>
     <name>Juno Nin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Oracle、Mysql、SqlServer创建表和给表和字段加注释</title>
-    <link href="http://junonin.github.io/posts/9770b99d.html"/>
-    <id>http://junonin.github.io/posts/9770b99d.html</id>
+    <link href="https://junonin.github.io/posts/9770b99d.html"/>
+    <id>https://junonin.github.io/posts/9770b99d.html</id>
     <published>2020-12-24T10:47:45.000Z</published>
     <updated>2020-12-25T02:56:24.179Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Sql随机查询数据语句(NewID(),Rnd,Rand(),Random())</title>
-    <link href="http://junonin.github.io/posts/a4322757.html"/>
-    <id>http://junonin.github.io/posts/a4322757.html</id>
+    <link href="https://junonin.github.io/posts/a4322757.html"/>
+    <id>https://junonin.github.io/posts/a4322757.html</id>
     <published>2020-12-18T03:43:57.000Z</published>
     <updated>2020-12-19T06:31:05.524Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>windows server 服务器配置多用户登录</title>
-    <link href="http://junonin.github.io/posts/f6bc6e38.html"/>
-    <id>http://junonin.github.io/posts/f6bc6e38.html</id>
+    <link href="https://junonin.github.io/posts/f6bc6e38.html"/>
+    <id>https://junonin.github.io/posts/f6bc6e38.html</id>
     <published>2020-12-07T08:06:14.000Z</published>
     <updated>2020-12-07T08:30:44.000Z</updated>
     
@@ -72,17 +72,17 @@
     
     
     
-    <category term="Windows Server" scheme="http://junonin.github.io/categories/Windows-Server/"/>
+    <category term="Windows Server" scheme="https://junonin.github.io/categories/Windows-Server/"/>
     
     
-    <category term="Windows Server" scheme="http://junonin.github.io/tags/Windows-Server/"/>
+    <category term="Windows Server" scheme="https://junonin.github.io/tags/Windows-Server/"/>
     
   </entry>
   
   <entry>
     <title>MySQL索引原则</title>
-    <link href="http://junonin.github.io/posts/ca3480e9.html"/>
-    <id>http://junonin.github.io/posts/ca3480e9.html</id>
+    <link href="https://junonin.github.io/posts/ca3480e9.html"/>
+    <id>https://junonin.github.io/posts/ca3480e9.html</id>
     <published>2020-12-05T08:21:12.000Z</published>
     <updated>2020-12-05T09:22:38.000Z</updated>
     
@@ -93,17 +93,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>RAID模式</title>
-    <link href="http://junonin.github.io/posts/578763b3.html"/>
-    <id>http://junonin.github.io/posts/578763b3.html</id>
+    <link href="https://junonin.github.io/posts/578763b3.html"/>
+    <id>https://junonin.github.io/posts/578763b3.html</id>
     <published>2020-12-04T03:06:46.000Z</published>
     <updated>2020-12-04T03:49:12.000Z</updated>
     
@@ -118,17 +118,17 @@
     
     
     
-    <category term="RAID" scheme="http://junonin.github.io/categories/RAID/"/>
+    <category term="RAID" scheme="https://junonin.github.io/categories/RAID/"/>
     
     
-    <category term="RAID" scheme="http://junonin.github.io/tags/RAID/"/>
+    <category term="RAID" scheme="https://junonin.github.io/tags/RAID/"/>
     
   </entry>
   
   <entry>
     <title>SqlServer 更改数据库名称</title>
-    <link href="http://junonin.github.io/posts/ab2a9e10.html"/>
-    <id>http://junonin.github.io/posts/ab2a9e10.html</id>
+    <link href="https://junonin.github.io/posts/ab2a9e10.html"/>
+    <id>https://junonin.github.io/posts/ab2a9e10.html</id>
     <published>2020-11-30T02:04:02.000Z</published>
     <updated>2020-11-30T02:22:37.000Z</updated>
     
@@ -139,17 +139,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>WebService</title>
-    <link href="http://junonin.github.io/posts/c05121c7.html"/>
-    <id>http://junonin.github.io/posts/c05121c7.html</id>
+    <link href="https://junonin.github.io/posts/c05121c7.html"/>
+    <id>https://junonin.github.io/posts/c05121c7.html</id>
     <published>2020-11-27T08:30:14.000Z</published>
     <updated>2020-12-30T09:32:37.326Z</updated>
     
@@ -160,17 +160,17 @@
     
     
     
-    <category term="WebService" scheme="http://junonin.github.io/categories/WebService/"/>
+    <category term="WebService" scheme="https://junonin.github.io/categories/WebService/"/>
     
     
-    <category term="WebService" scheme="http://junonin.github.io/tags/WebService/"/>
+    <category term="WebService" scheme="https://junonin.github.io/tags/WebService/"/>
     
   </entry>
   
   <entry>
     <title>删除Maven下无效的lastUpdated文件</title>
-    <link href="http://junonin.github.io/posts/b5aff3ae.html"/>
-    <id>http://junonin.github.io/posts/b5aff3ae.html</id>
+    <link href="https://junonin.github.io/posts/b5aff3ae.html"/>
+    <id>https://junonin.github.io/posts/b5aff3ae.html</id>
     <published>2020-11-27T03:06:53.000Z</published>
     <updated>2020-11-27T03:11:56.000Z</updated>
     
@@ -181,17 +181,17 @@
     
     
     
-    <category term="Maven" scheme="http://junonin.github.io/categories/Maven/"/>
+    <category term="Maven" scheme="https://junonin.github.io/categories/Maven/"/>
     
     
-    <category term="Maven" scheme="http://junonin.github.io/tags/Maven/"/>
+    <category term="Maven" scheme="https://junonin.github.io/tags/Maven/"/>
     
   </entry>
   
   <entry>
     <title>数据库服务器情况</title>
-    <link href="http://junonin.github.io/posts/9b7af42.html"/>
-    <id>http://junonin.github.io/posts/9b7af42.html</id>
+    <link href="https://junonin.github.io/posts/9b7af42.html"/>
+    <id>https://junonin.github.io/posts/9b7af42.html</id>
     <published>2020-11-27T02:12:12.000Z</published>
     <updated>2020-11-27T02:35:00.000Z</updated>
     
@@ -202,17 +202,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>一些Bat的备份脚本</title>
-    <link href="http://junonin.github.io/posts/6ad92fda.html"/>
-    <id>http://junonin.github.io/posts/6ad92fda.html</id>
+    <link href="https://junonin.github.io/posts/6ad92fda.html"/>
+    <id>https://junonin.github.io/posts/6ad92fda.html</id>
     <published>2020-11-26T09:34:00.000Z</published>
     <updated>2020-11-27T02:29:10.000Z</updated>
     
@@ -223,17 +223,17 @@
     
     
     
-    <category term="Bat" scheme="http://junonin.github.io/categories/Bat/"/>
+    <category term="Bat" scheme="https://junonin.github.io/categories/Bat/"/>
     
     
-    <category term="Bat" scheme="http://junonin.github.io/tags/Bat/"/>
+    <category term="Bat" scheme="https://junonin.github.io/tags/Bat/"/>
     
   </entry>
   
   <entry>
     <title>批量备份数据库</title>
-    <link href="http://junonin.github.io/posts/2e2ac8a6.html"/>
-    <id>http://junonin.github.io/posts/2e2ac8a6.html</id>
+    <link href="https://junonin.github.io/posts/2e2ac8a6.html"/>
+    <id>https://junonin.github.io/posts/2e2ac8a6.html</id>
     <published>2020-11-26T08:21:17.000Z</published>
     <updated>2020-11-27T02:28:36.000Z</updated>
     
@@ -244,17 +244,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Redis</title>
-    <link href="http://junonin.github.io/posts/7b25d017.html"/>
-    <id>http://junonin.github.io/posts/7b25d017.html</id>
+    <link href="https://junonin.github.io/posts/7b25d017.html"/>
+    <id>https://junonin.github.io/posts/7b25d017.html</id>
     <published>2020-11-25T10:02:03.000Z</published>
     <updated>2020-11-24T10:07:25.000Z</updated>
     
@@ -265,17 +265,17 @@
     
     
     
-    <category term="Redis" scheme="http://junonin.github.io/categories/Redis/"/>
+    <category term="Redis" scheme="https://junonin.github.io/categories/Redis/"/>
     
     
-    <category term="Redis" scheme="http://junonin.github.io/tags/Redis/"/>
+    <category term="Redis" scheme="https://junonin.github.io/tags/Redis/"/>
     
   </entry>
   
   <entry>
     <title>Tomcat服务</title>
-    <link href="http://junonin.github.io/posts/9240bb8c.html"/>
-    <id>http://junonin.github.io/posts/9240bb8c.html</id>
+    <link href="https://junonin.github.io/posts/9240bb8c.html"/>
+    <id>https://junonin.github.io/posts/9240bb8c.html</id>
     <published>2020-11-24T08:41:27.000Z</published>
     <updated>2020-11-24T08:57:02.000Z</updated>
     
@@ -286,19 +286,19 @@
     
     
     
-    <category term="JAVA" scheme="http://junonin.github.io/categories/JAVA/"/>
+    <category term="JAVA" scheme="https://junonin.github.io/categories/JAVA/"/>
     
-    <category term="JDK" scheme="http://junonin.github.io/categories/JAVA/JDK/"/>
+    <category term="JDK" scheme="https://junonin.github.io/categories/JAVA/JDK/"/>
     
     
-    <category term="Tomcat" scheme="http://junonin.github.io/tags/Tomcat/"/>
+    <category term="Tomcat" scheme="https://junonin.github.io/tags/Tomcat/"/>
     
   </entry>
   
   <entry>
     <title>如何用SQL来核查序号是否连续</title>
-    <link href="http://junonin.github.io/posts/2b21e7e.html"/>
-    <id>http://junonin.github.io/posts/2b21e7e.html</id>
+    <link href="https://junonin.github.io/posts/2b21e7e.html"/>
+    <id>https://junonin.github.io/posts/2b21e7e.html</id>
     <published>2020-11-24T07:01:15.000Z</published>
     <updated>2020-11-24T08:53:14.000Z</updated>
     
@@ -309,17 +309,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>索引重建</title>
-    <link href="http://junonin.github.io/posts/10d7ac37.html"/>
-    <id>http://junonin.github.io/posts/10d7ac37.html</id>
+    <link href="https://junonin.github.io/posts/10d7ac37.html"/>
+    <id>https://junonin.github.io/posts/10d7ac37.html</id>
     <published>2020-11-20T03:13:36.000Z</published>
     <updated>2020-11-27T02:28:46.000Z</updated>
     
@@ -330,17 +330,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>JDK环境变量</title>
-    <link href="http://junonin.github.io/posts/bab53ddd.html"/>
-    <id>http://junonin.github.io/posts/bab53ddd.html</id>
+    <link href="https://junonin.github.io/posts/bab53ddd.html"/>
+    <id>https://junonin.github.io/posts/bab53ddd.html</id>
     <published>2020-11-12T10:55:42.000Z</published>
     <updated>2020-11-24T08:45:33.000Z</updated>
     
@@ -351,19 +351,19 @@
     
     
     
-    <category term="JAVA" scheme="http://junonin.github.io/categories/JAVA/"/>
+    <category term="JAVA" scheme="https://junonin.github.io/categories/JAVA/"/>
     
-    <category term="JDK" scheme="http://junonin.github.io/categories/JAVA/JDK/"/>
+    <category term="JDK" scheme="https://junonin.github.io/categories/JAVA/JDK/"/>
     
     
-    <category term="JDK" scheme="http://junonin.github.io/tags/JDK/"/>
+    <category term="JDK" scheme="https://junonin.github.io/tags/JDK/"/>
     
   </entry>
   
   <entry>
     <title>数据库的特殊情况处理笔记</title>
-    <link href="http://junonin.github.io/posts/a73a1064.html"/>
-    <id>http://junonin.github.io/posts/a73a1064.html</id>
+    <link href="https://junonin.github.io/posts/a73a1064.html"/>
+    <id>https://junonin.github.io/posts/a73a1064.html</id>
     <published>2020-10-26T03:50:25.000Z</published>
     <updated>2020-12-30T09:32:25.521Z</updated>
     
@@ -374,17 +374,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>数据库：删除重复记录（去重）</title>
-    <link href="http://junonin.github.io/posts/a73a10a8.html"/>
-    <id>http://junonin.github.io/posts/a73a10a8.html</id>
+    <link href="https://junonin.github.io/posts/a73a10a8.html"/>
+    <id>https://junonin.github.io/posts/a73a10a8.html</id>
     <published>2020-10-22T03:50:37.000Z</published>
     <updated>2020-12-10T01:44:04.000Z</updated>
     
@@ -395,17 +395,17 @@
     
     
     
-    <category term="SQL" scheme="http://junonin.github.io/categories/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/categories/SQL/"/>
     
     
-    <category term="SQL" scheme="http://junonin.github.io/tags/SQL/"/>
+    <category term="SQL" scheme="https://junonin.github.io/tags/SQL/"/>
     
   </entry>
   
   <entry>
     <title>Typora图床</title>
-    <link href="http://junonin.github.io/posts/d67c4ae5.html"/>
-    <id>http://junonin.github.io/posts/d67c4ae5.html</id>
+    <link href="https://junonin.github.io/posts/d67c4ae5.html"/>
+    <id>https://junonin.github.io/posts/d67c4ae5.html</id>
     <published>2020-09-27T16:00:00.000Z</published>
     <updated>2020-11-27T02:29:29.000Z</updated>
     
@@ -416,17 +416,17 @@
     
     
     
-    <category term="Tools" scheme="http://junonin.github.io/categories/Tools/"/>
+    <category term="Tools" scheme="https://junonin.github.io/categories/Tools/"/>
     
     
-    <category term="Typora" scheme="http://junonin.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://junonin.github.io/tags/Typora/"/>
     
   </entry>
   
   <entry>
     <title>WinSCP同步脚本</title>
-    <link href="http://junonin.github.io/posts/e9a5b8d2.html"/>
-    <id>http://junonin.github.io/posts/e9a5b8d2.html</id>
+    <link href="https://junonin.github.io/posts/e9a5b8d2.html"/>
+    <id>https://junonin.github.io/posts/e9a5b8d2.html</id>
     <published>2020-08-28T16:00:00.000Z</published>
     <updated>2020-11-25T10:03:48.000Z</updated>
     
@@ -437,10 +437,10 @@
     
     
     
-    <category term="Tools" scheme="http://junonin.github.io/categories/Tools/"/>
+    <category term="Tools" scheme="https://junonin.github.io/categories/Tools/"/>
     
     
-    <category term="WinSCP" scheme="http://junonin.github.io/tags/WinSCP/"/>
+    <category term="WinSCP" scheme="https://junonin.github.io/tags/WinSCP/"/>
     
   </entry>
   
