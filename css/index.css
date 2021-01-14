@@ -1379,7 +1379,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #7b5188;
+  --btn-hover-color: #7d599e;
   --btn-color: #fff;
   --btn-bg: #e58a8a;
   --text-bg-hover: #e58a8a;
@@ -1743,7 +1743,7 @@ blockquote footer cite:before {
 #article-container code {
   padding: 0.1rem 0.2rem;
   background: rgba(27,31,35,0.05);
-  color: #7b5188;
+  color: #7d599e;
   word-wrap: break-word;
   word-break: break-word;
   overflow-wrap: break-word;
@@ -1933,7 +1933,7 @@ blockquote footer cite:before {
   font-size: 1.72em;
 }
 .article-sort-title:hover:before {
-  border-color: #7b5188;
+  border-color: #7d599e;
 }
 .article-sort-title:before {
   position: absolute;
@@ -1985,7 +1985,7 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 .article-sort-item:hover:before {
-  border-color: #7b5188;
+  border-color: #7d599e;
 }
 .article-sort-item:before {
   position: absolute;
@@ -2015,7 +2015,7 @@ blockquote footer cite:before {
   border-color: #e58a8a;
 }
 .article-sort-item.year:before {
-  border-color: #7b5188;
+  border-color: #7d599e;
 }
 .article-sort-item-time {
   color: #858585;
@@ -2139,7 +2139,7 @@ blockquote footer cite:before {
   content: '';
 }
 #page .category-lists ul li:hover:before {
-  border-color: #7b5188;
+  border-color: #7d599e;
 }
 .layout {
   display: -webkit-box;
@@ -4090,7 +4090,7 @@ _:future,
   padding: 0.2em 0.2em 0.2em 1.4em;
 }
 #article-container ul > li:not(.tab):hover:before {
-  border-color: #7b5188;
+  border-color: #7d599e;
 }
 #article-container ul > li:not(.tab):before {
   top: 0.78em;
@@ -5729,7 +5729,7 @@ blockquote.pullquote.right {
   line-height: 1.7;
 }
 #local-search .search-dialog .local-search__hit-item:hover:before {
-  border-color: #7b5188;
+  border-color: #7d599e;
 }
 #local-search .search-dialog .local-search__hit-item:before {
   position: absolute;
